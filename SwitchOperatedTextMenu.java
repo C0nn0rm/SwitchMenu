@@ -1,5 +1,5 @@
-import java.util.scanner;
-public class switchOperatedTextMenu {
+import java.util.Scanner;
+public class SwitchOperatedTextMenu {
 public static void main(String[] args) {
 Scanner in = new Scanner(System.in);
 // print menu
@@ -31,4 +31,3 @@ System.out.println("Invalid choice.");
 System.out.println("Bye-bye!");
 }
 }
-
